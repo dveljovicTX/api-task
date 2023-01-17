@@ -1,10 +1,10 @@
-#Goldbach API task
+# Goldbach API task
 
-##Start development
+## Start development
 - ```npm i```
 - ```npm run start```
 
-##Task description
+## Task description
 
 Create api endpoint that returns and filters the list of of publicly available apis and satisfies the following requirements:
 
